@@ -114,15 +114,15 @@ analytics:
 # Site Author
 author:
   name: "Your Name"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/RimPicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person."
-  location: "Somewhere"
-  email:
+  location: "Indonesia"
+  email: "wilbertwu55@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:wilbertwu55@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -333,7 +333,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
 
 # Collections
 collections:
