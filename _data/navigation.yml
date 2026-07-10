@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "Game Projects"
+    url: /game-projects/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
