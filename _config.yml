@@ -17,11 +17,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-US"
 direction: # "ltr" (default), "rtl" # set the direction of the page
-title: "Site Title"
+title: "Wilbert Wu's Website"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
-description: "An amazing website."
+name: "Wilbert Wu"
+description: "Showcasing myself"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,7 +67,7 @@ reCaptcha:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-  hide: # true, false (default)
+  hide: true # true, false (default)
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # lunr (default), algolia, google
@@ -113,14 +113,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "Wilbert Wu"
   avatar: "/assets/images/RimPicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  bio: "Always in a journey to improve"
   location: "Indonesia"
-  email: "wilbertwu55@gmail.com"
+  # email: "wilbertwu55@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
+    - label: "wilbertwu55@gmail.com"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:wilbertwu55@gmail.com"
     - label: "Website"
@@ -134,7 +134,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/RimWw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/RimWw"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -161,7 +161,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  # since: "2013"
 
 # Reading Files
 include:

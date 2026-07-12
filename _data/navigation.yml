@@ -10,3 +10,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+game-desync:
+  - title: Gameplay (Youtube)
+    url: "https://www.youtube.com/watch?v=uR00G5HBrnI"
+game-site19b:
+  - title: Prototype Ver. (Youtube)
+    url: "https://youtu.be/cTPgnyXQ-ow"
+  - title: Finished Ver. (Youtube)
+    url: "https://www.youtube.com/watch?v=8UdTNxXT12o"
+game-block:
+  - title: Itch.io Page
+    url: "https://rimww.itch.io/block-go-block"
+game-nobutton:
+  - title: Miliastra.games Page
+    url: "https://miliastra.games/games/there-is-no-button-7573645601-en"
+game-proto-tcsf:
+  - title: Prototype (Youtube)
+    url: "https://youtu.be/aZ9Rgn1vDpI"

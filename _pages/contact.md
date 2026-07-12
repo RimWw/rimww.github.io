@@ -2,16 +2,13 @@
 layout: single
 title: My Contact
 permalink: /contact/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<i class="fas fa-envelope"></i> wilbertwu55@gmail.com (very active)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<i class="fa-brands fa-discord"></i> [rimww](https://discord.com/users/758250839201939466) (very active)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<i class="fa-brands fa-line"></i> [RimWw](https://line.me/ti/p/WgvVQk-s90)
 
-[jekyll-organization]: https://github.com/jekyll
+<i class="fa-brands fa-facebook"></i> [Wilbert Wu](https://www.facebook.com/wilbert.wu.520)
