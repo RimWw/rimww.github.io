@@ -1,6 +1,6 @@
 ---
 title: "Block Go Block!"
-excerpt: 'A short puzzle game made for GMTK Game Jam 2025, with the theme being "Loop".'
+excerpt: "A short time-loop puzzle game made for GMTK Game Jam 2025."
 header:
   # image: "/assets/images/Site19B-cover.jpg"
   teaser: "/assets/images/BlockGMTK-cover2.JPG"
