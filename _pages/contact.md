@@ -12,3 +12,5 @@ author_profile: true
 <i class="fa-brands fa-line"></i> [RimWw](https://line.me/ti/p/WgvVQk-s90)
 
 <i class="fa-brands fa-facebook"></i> [Wilbert Wu](https://www.facebook.com/wilbert.wu.520)
+
+<i class="fa-brands fa-linkedin"></i> [Wilbert Wu](https://www.linkedin.com/in/wilbert-wu-832115421)
